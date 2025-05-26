@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CRUD_Task.iml" filepath="$PROJECT_DIR$/.idea/CRUD_Task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/FuturumCRUD.iml" filepath="$PROJECT_DIR$/.idea/FuturumCRUD.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/FuturumTask.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FuturumTask.main.iml" />
     </modules>
   </component>

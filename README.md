@@ -11,7 +11,7 @@ A CRUD application for managing advertising campaigns, featuring a Spring Boot b
 
 ## Technologies Used
 
-### Backend (`SpringCRUD_Task_Backend`)
+### Backend (`FuturumTask`)
 * **Language/Framework:** Java 17, Spring Boot 3.x
 * **Data Management:** Spring Data JPA, Hibernate
 * **Database:** H2 Database (in-memory, initialized with `data.sql`)
@@ -19,7 +19,7 @@ A CRUD application for managing advertising campaigns, featuring a Spring Boot b
 * **Logging:** SLF4J + Logback
 * **Build Tool:** Gradle
 
-### Frontend (`SpringCRUD_Task_Frontend`)
+### Frontend (`FuturumTaskFrontend`)
 * **Library/Framework:** React 18.x
 * **Language:** JavaScript (ES6+)
 * **Build Tool/Dev Server:** Vite
@@ -35,14 +35,14 @@ A CRUD application for managing advertising campaigns, featuring a Spring Boot b
 * Java JDK 17 or later.
 * Node.js (which includes npm, e.g., v22.x) for the frontend.
 
-### Running the Backend (`SpringCRUD_Task_Backend`)
-1.  Navigate to the `/SpringCRUD_Task_Backend` directory.
+### Running the Backend (`FuturumTask`)
+1.  Navigate to the `/FuturumTask` directory.
 2.  Run the application using the Gradle wrapper:
 3.  The backend API will typically be available at `http://localhost:8080`.
 4.  Initial seller data is loaded from src/main/resources/data.sql upon application startup.
 
-### Running the Frontend (`SpringCRUD_Task_Frontend`)
-1.  Navigate to the `/SpringCRUD_Task_Frontend` directory.
+### Running the Frontend (`FuturumTaskFrontend`)
+1.  Navigate to the `/FuturumTaskFrontend` directory.
 2.  Install dependencies (if not already done):
     ```bash
     npm install
