@@ -85,7 +85,6 @@ function App() {
                 if (campaignsResp.ok) setCampaigns(await campaignsResp.json()); else setCampaigns([]);
                 if (sellersResp.ok) setSellers(await sellersResp.json()); else setSellers([]);
             } catch (err) {
-
                 setCampaigns([]);
                 setSellers([]);
             }
